@@ -1,0 +1,3 @@
+# simple test
+x <- 1/2
+x
